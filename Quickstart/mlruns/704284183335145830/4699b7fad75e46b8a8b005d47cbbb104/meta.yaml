@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704284183335145830/4699b7fad75e46b8a8b005d47cbbb104/artifacts
+end_time: 1741510955468
+entry_point_name: ''
+experiment_id: '704284183335145830'
+lifecycle_stage: active
+run_id: 4699b7fad75e46b8a8b005d47cbbb104
+run_name: enthused-gnu-766
+run_uuid: 4699b7fad75e46b8a8b005d47cbbb104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741510955396
+status: 3
+tags: []
+user_id: badro97

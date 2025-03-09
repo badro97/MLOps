@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/459918274069510617/1ab655d594d44fc3984d223db7371d0a/artifacts
+deleted_time: 1741516290764
+end_time: 1741513561931
+entry_point_name: ''
+experiment_id: '459918274069510617'
+lifecycle_stage: deleted
+run_id: 1ab655d594d44fc3984d223db7371d0a
+run_name: dashing-fish-679
+run_uuid: 1ab655d594d44fc3984d223db7371d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741513558240
+status: 3
+tags: []
+user_id: badro97

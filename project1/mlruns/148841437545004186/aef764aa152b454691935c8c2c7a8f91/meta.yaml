@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/148841437545004186/aef764aa152b454691935c8c2c7a8f91/artifacts
+deleted_time: 1741515127776
+end_time: 1741514411396
+entry_point_name: ''
+experiment_id: '148841437545004186'
+lifecycle_stage: deleted
+run_id: aef764aa152b454691935c8c2c7a8f91
+run_name: ridge_regression
+run_uuid: aef764aa152b454691935c8c2c7a8f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741514408656
+status: 3
+tags: []
+user_id: badro97

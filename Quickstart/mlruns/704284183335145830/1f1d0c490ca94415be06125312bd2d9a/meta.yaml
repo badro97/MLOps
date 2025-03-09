@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704284183335145830/1f1d0c490ca94415be06125312bd2d9a/artifacts
+end_time: 1741510763531
+entry_point_name: ''
+experiment_id: '704284183335145830'
+lifecycle_stage: active
+run_id: 1f1d0c490ca94415be06125312bd2d9a
+run_name: delightful-bear-189
+run_uuid: 1f1d0c490ca94415be06125312bd2d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741510763477
+status: 3
+tags: []
+user_id: badro97

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704284183335145830/7f22a9139d76496a83585d953e1c9111/artifacts
+end_time: 1741511293941
+entry_point_name: ''
+experiment_id: '704284183335145830'
+lifecycle_stage: active
+run_id: 7f22a9139d76496a83585d953e1c9111
+run_name: upset-robin-457
+run_uuid: 7f22a9139d76496a83585d953e1c9111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741511293873
+status: 3
+tags: []
+user_id: badro97

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/459918274069510617/fcb61c3d4527476ba5b9c7989b7d4f0c/artifacts
+end_time: 1741516241428
+entry_point_name: ''
+experiment_id: '459918274069510617'
+lifecycle_stage: active
+run_id: fcb61c3d4527476ba5b9c7989b7d4f0c
+run_name: defiant-croc-584
+run_uuid: fcb61c3d4527476ba5b9c7989b7d4f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741516237529
+status: 3
+tags: []
+user_id: badro97
